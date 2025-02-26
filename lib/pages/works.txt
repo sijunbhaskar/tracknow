@@ -1,0 +1,6 @@
+alertspge.....ok
+eta...........ok
+nearbystops..........deleted
+routeselection...........ok
+routepreview.............ok
+passengerhome ...........updted with new features(ok)
